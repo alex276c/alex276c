@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+</style>
+</head>
+<body>
+<h1 style="background-color:rgb(40,200,15,0.85);color:red;">Madrid, Spanien</h1>
+<!--Lidt information om landet i følgende paragraf-->
+<div style="border: 1px solid black"><p><b><i>Spanien er et stort land hvis man kigger på hele Europa, og ligger på den iberiske halvø. Hovedstaden hedder Madrid det er netop der man tager hen på GCP-turen. </i></b></p></div>
+<p><b><i><br>Landet har grænser med 3 forskellige lande:<br><ul style="list-style-type:circle;">
+<li>Andorra</li>
+<li>Frankrig</li>
+<li>Portugal</li>
+</ul>
+</i></b></p>
+<img src="https://live.staticflickr.com/2037/2218865210_f6aa47e1c7_b.jpg" width=500 Height=500>
+<h5> Billedet ovenover er taget i byen Toledo, en historisk vigtig og nærliggende by til Madrid.<br><br> Hvis du vil læse mere og måske se nogle billeder fra turen tryk herunder</h5>
+<a href="https://rysensteen.dk/">Rysensteens hjemmeside</a>
+<h3>GCP og Rejsen</h3>
+<h5>Hvis man vil læse mere om ''gcp'' kan man gøre det på rysensteens hjemmeside som står ovenover, men her kommer det vigtigste.<br><br>GCP handler hovedsageligt om kulturforståelse og kommunikationen mellem kulturer der minder lidt om hinanden og de kulturer der slet ikke gør. Det handler om at få en forståelse for den anden kulturs levemåde og respektere den, selvom man måske ikke er enig eller helt forstår hvorfor de gør på den måde de gør det på. Derudover handler det om at kunne leve sammen, og uden at skabe problemer for hinanden. Hvilket er derfor, at rejsen til Spanien er ekstra god, ligesom nogle andre gcp rejser også er, fordi her bor man alle dagene hos ens partnerelev, hvilket bare gør rejsen mere speciel. Selvfølgelig er det ikke alle der bryder sig om at bo hos familien i de 8-9 dage man er der, men GCP mæssigt så kan det bare ikke blive bedre.</h5>
+<h4> Her er der et link til min logbog</h4>
+<a href="https://sites.google.com/s/1oKodI9MqPlffVbUfqKAzh2JGWbYoW6IC/p/1Y9hf0MS7lata5lzAvRfAePdqQfuwtJWr/edit">Logbog</a>
+</body>
+</html>
